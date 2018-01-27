@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="32346d54-bd16-430a-b02c-e1f968b3f484" name="ssh-server.eecs.wsu.edu" url="http://ssh1.eecs.wsu.edu">
+        <fileTransfer host="ssh1.eecs.wsu.edu" port="22" rootFolder="/net/ugrads/alewis/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

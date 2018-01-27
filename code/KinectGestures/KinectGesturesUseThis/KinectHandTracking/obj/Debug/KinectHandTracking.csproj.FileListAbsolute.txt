@@ -1,0 +1,17 @@
+C:\Users\Vangos\Desktop\KinectHandTracking\KinectHandTracking\bin\Debug\KinectHandTracking.exe.config
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\bin\Debug\KinectHandTracking.exe.config
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Debug\KinectHandTracking.csprojResolveAssemblyReference.cache
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Debug\MainWindow.baml
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Debug\App.baml
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Debug\MainWindow.g.cs
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Debug\App.g.cs
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Debug\KinectHandTracking_MarkupCompile.cache
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Debug\KinectHandTracking.g.resources
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Debug\KinectHandTracking.Properties.Resources.resources
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Debug\KinectHandTracking.csproj.GenerateResource.Cache
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\bin\Debug\KinectHandTracking.exe
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\bin\Debug\KinectHandTracking.pdb
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\bin\Debug\Microsoft.Kinect.dll
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\bin\Debug\Microsoft.Kinect.xml
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Debug\KinectHandTracking.exe
+F:\Downloads\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Debug\KinectHandTracking.pdb

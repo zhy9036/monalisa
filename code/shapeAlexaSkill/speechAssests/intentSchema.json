@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "emotion",
+          "type": "LIST_OF_EMOTIONS"
+        }
+      ],
+      "intent": "emotionPresetIntent"
+    }
+  ]
+}

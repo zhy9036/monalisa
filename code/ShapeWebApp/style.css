@@ -1,0 +1,12 @@
+body {
+    padding-top: 80px;
+}
+
+input {
+
+}
+
+progress, input {
+    width: 300px;
+    float: left;
+}

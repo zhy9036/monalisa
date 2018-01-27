@@ -1,0 +1,4 @@
+emotionPresetIntent I feel {emotion}
+emotionPresetIntent I am {emotion}
+emotionPresetIntent Configuration {emotion}
+emotionPresetIntent {emotion}
